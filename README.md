@@ -1,6 +1,12 @@
-# 快手Api
-### 快手视频Api、快手爬虫、快手去水印、快手视频下载、快手视频解析
-https://www.titodata.com/
+# 快手Api：搜索、视频、用户
+## 快手视频Api、快手爬虫、快手去水印、快手视频下载、快手视频解析
+
+
+---
+
+#### TiToData：专业的短视频数据采集、处理平台。
+#### 更多信息请联系： [TiToData](https://www.titodata.com?from=kuaishouapi)
+
 ```
 海量数据采集
 每天为客户采集5亿条数据
@@ -8,15 +14,35 @@ https://www.titodata.com/
 联系vx：ifuxing123
 ```
 
-## 接口包括以下模块
-### 热门视频、热门达人、热门商品等等
 
-## 视频列表
+# 接口列表：
+
+## 搜索
+
+- 关键词搜索用户
+- 关键词搜索视频
+
+## 用户
+
+- 用户信息
+- 用户视频列表
+
+## 视频
+
+- 视频评论列表
+- 视频评论的回复列表
+
+
+# 视频列表接口示例如下：
+更多接口文档请联系客服获取：[TiToData](https://www.titodata.com/about?from=douyinapi)
 
 ### 请求地址
-```
+
+
+```http
 GET http://api2.titodata.com/api/video/lists
 ```
+
 
 ### 请求参数
 | 名称 | 必填 | 类型 | 说明 |
@@ -36,7 +62,9 @@ GET http://api2.titodata.com/api/video/lists
 
 
 
+
 ### 返回参数
+
 ```json
 {
     "code": 200,
@@ -69,5 +97,6 @@ GET http://api2.titodata.com/api/video/lists
 }
 ```
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Video-Hub.kuaishou-api)
 
 
