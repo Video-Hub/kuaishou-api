@@ -4,8 +4,7 @@
 
 ---
 
-#### TiToData：专业的短视频数据采集、处理平台。
-#### 更多信息请联系： [TiToData](https://www.titodata.com?from=kuaishouapi)
+#### TiToData：短视频数据采集、处理平台。
 
 ```
 海量数据采集
@@ -40,7 +39,7 @@
 
 
 ```http
-GET http://api2.titodata.com/api/video/lists
+GET http://api2.主机地址.com/api/video/lists
 ```
 
 
