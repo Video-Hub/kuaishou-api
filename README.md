@@ -33,7 +33,6 @@
 
 
 # 视频列表接口示例如下：
-更多接口文档请联系客服获取：[TiToData](https://www.titodata.com/about?from=douyinapi)
 
 ### 请求地址
 
